@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "SCALE 100",
-  "description": "SCALE OF 100",
+  "name": "Magnify",
+  "description": "Scales images by 100",
   "version": "1.0",
   "browser_action": { },
 

@@ -1,3 +1,5 @@
+//BLUE
+
 var toggle = false;
 chrome.browserAction.onClicked.addListener(function(tab) {
   toggle = !toggle;
